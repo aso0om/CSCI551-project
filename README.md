@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# CSCI551-project!
 **Simplified implementation of Onion Routing Protocol**
 Implementation of  **Mantitor**, a simplified version of a TOR-like Onion Router as described in the paper by Dingledine et al. **(see *[Dingledine04a]*)**.
 
